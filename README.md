@@ -1,18 +1,20 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CipherxHub/SnipX/main/public/next.svg" alt="SnipX Logo" width="100" />
-  <h1 style="color: blue;">SnipX</h1>
-  <p>Create Beautiful Code Snippets in Seconds</p>
-  <p>
-    <a href="https://snipx.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Live-Demo-brightgreen.svg" alt="Live Demo" />
-    </a>
-    <a href="https://github.com/CipherxHub/SnipX" target="_blank">
-      <img src="https://img.shields.io/github/stars/CipherxHub/SnipX?style=social" alt="GitHub Stars" />
-    </a>
-    <a href="https://github.com/CipherxHub/SnipX/blob/main/LICENSE" target="_blank">
-      <img src="https://img.shields.io/github/license/CipherxHub/SnipX" alt="License: MIT" />
-    </a>
-  </p>
+    <img src="https://raw.githubusercontent.com/CipherxHub/SnipX/main/public/next.svg" alt="SnipX Logo" width="100" />
+    <h1>SnipX</h1>
+    <p>Create Beautiful Code Snippets in Seconds</p>
+    <p>
+        <a href="https://snipx.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/Live-Demo-brightgreen.svg" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/CipherxHub/SnipX" target="_blank">
+            <img src="https://img.shields.io/github/stars/CipherxHub/SnipX?style=social" alt="GitHub Stars" />
+        </a>
+        <a href="https://github.com/CipherxHub/SnipX/blob/main/LICENSE" target="_blank">
+            <img src="https://img.shields.io/github/license/CipherxHub/SnipX" alt="License: MIT" />
+        </a>
+        <img src="https://img.shields.io/badge/Next.js-13+-black" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Tailwind-3.0-blue" alt="Tailwind CSS" />
+    </p>
 </div>
 
 ---
@@ -33,44 +35,52 @@
 
 ---
 
-## <a id="features"></a>🚀 Features
+## Features
 
-- **Beautiful Code Snippets**: Instantly create visually appealing code snippets with syntax highlighting.
-- **Custom Fonts & Themes**: Enjoy modern fonts like Inter and Fira Code with seamless dark/light mode switching.
-- **Real-Time Analytics**: Integrated with Vercel Analytics to monitor user interactions.
-- **Performance Insights**: Get insights powered by Vercel Speed Insights to ensure optimal load times.
-- **Responsive Design**: Fully responsive layout for an excellent experience on any device.
+🚀 **Beautiful Code Snippets**: Instantly create visually appealing code snippets with syntax highlighting.
 
----
+🎨 **Custom Fonts & Themes**: Enjoy modern fonts like Inter and Fira Code with seamless dark/light mode switching.
 
-## <a id="tech-stack"></a>🛠️ Tech Stack
+📊 **Real-Time Analytics**: Integrated with Vercel Analytics to monitor user interactions.
 
-- **Framework**: [Next.js (App Router)](https://nextjs.org/)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Fonts**: [Google Fonts](https://fonts.google.com/) – Inter & Fira Code
-- **Analytics**: [Vercel Analytics](https://vercel.com/analytics)
-- **Performance**: [Vercel Speed Insights](https://vercel.com/docs/speed-insights)
+⚡ **Performance Insights**: Get insights powered by Vercel Speed Insights to ensure optimal load times.
+
+📱 **Responsive Design**: Fully responsive layout for an excellent experience on any device.
 
 ---
 
-## <a id="project-structure"></a>📂 Project Structure
+## Tech Stack
+
+🔷 **Framework**: [Next.js (App Router)](https://nextjs.org/)
+
+🔷 **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+
+🔷 **Fonts**: [Google Fonts](https://fonts.google.com/) – Inter & Fira Code
+
+🔷 **Analytics**: [Vercel Analytics](https://vercel.com/analytics)
+
+🔷 **Performance**: [Vercel Speed Insights](https://vercel.com/docs/speed-insights)
+
+---
+
+## Project Structure
 
 ```plaintext
 /app
-  ├── layout.tsx       # Root layout with Analytics & Speed Insights
-  ├── page.tsx         # Main application page
-  ├── globals.css      # Global styles
-  ├── favicon.ico      # Favicon
+    ├── layout.tsx       # Root layout with Analytics & Speed Insights
+    ├── page.tsx         # Main application page
+    ├── globals.css      # Global styles
+    ├── favicon.ico      # Favicon
 /components
-  ├── CodeEditor.tsx   # Code editor with syntax highlighting
+    ├── CodeEditor.tsx   # Code editor with syntax highlighting
 /public
-  ├── next.svg         # Next.js logo
-  ├── vercel.svg       # Vercel logo
+    ├── next.svg         # Next.js logo
+    ├── vercel.svg       # Vercel logo
 ```
 
 ---
 
-## <a id="getting-started"></a>🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -81,17 +91,17 @@ Make sure you have installed:
 ### Installation
 
 1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/CipherxHub/SnipX.git
-   cd SnipX
-   ```
+     ```bash
+     git clone https://github.com/CipherxHub/SnipX.git
+     cd SnipX
+     ```
 
 2. **Install Dependencies**
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
+     ```bash
+     npm install
+     # or
+     yarn install
+     ```
 
 ### Running the Development Server
 
@@ -112,7 +122,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the demo live. The p
 
 ---
 
-## <a id="build--deployment"></a>🛠️ Build & Deployment
+## Build & Deployment
 
 ### Production Build
 
@@ -145,7 +155,7 @@ For detailed deployment instructions, see the [Next.js Deployment Docs](https://
 
 ---
 
-## <a id="features-in-detail"></a>🌟 Features in Detail
+## Features in Detail
 
 ### Code Editor
 - **Interactive Editing**: Built with React, it provides syntax highlighting and an intuitive UI for crafting your snippets.
@@ -161,7 +171,7 @@ For detailed deployment instructions, see the [Next.js Deployment Docs](https://
 
 ---
 
-## <a id="learn-more"></a>📖 Learn More
+## Learn More
 
 Enhance your Next.js knowledge:
 - **[Next.js Documentation](https://nextjs.org/docs)**
@@ -170,29 +180,26 @@ Enhance your Next.js knowledge:
 
 ---
 
-## <a id="license"></a>📜 License
+## License
 
 This project is licensed under the **MIT License**. For the full license details, please see the [LICENSE](https://github.com/CipherxHub/SnipX/blob/main/LICENSE) file.
 
 ---
 
-## <a id="contributors"></a>👨‍💻 Contributors
+## Contributors
 
 - **CipherxHub** – [GitHub Profile](https://github.com/CipherxHub)
 - **CodexCasper** – [GitHub Profile](https://github.com/codexcasper)
 
 ---
 
-## <a id="support"></a>📞 Support
+## Support
 
 Encounter any issues or have questions? Feel free to [open an issue](https://github.com/CipherxHub/SnipX/issues) on GitHub.
 
 ---
 
-## <a id="quick-links"></a>🌐 Quick Links
+## Quick Links
 
 - **Live Demo**: [snipx.vercel.app](https://snipx.vercel.app)
 - **GitHub Repository**: [github.com/CipherxHub/SnipX](https://github.com/CipherxHub/SnipX)
-```
-
-This version should address your concerns. Feel free to adjust further as needed!

@@ -1,5 +1,3 @@
-
-```markdown
 <div align="center">
   <img src="https://raw.githubusercontent.com/CipherxHub/SnipX/main/public/next.svg" alt="SnipX Logo" width="100" />
   <h1>SnipX</h1>

@@ -25,7 +25,6 @@
 - [Getting Started](#getting-started)
 - [Build & Deployment](#build--deployment)
 - [Features in Detail](#features-in-detail)
-- [Learn More](#learn-more)
 - [License](#license)
 - [Contributors](#contributors)
 - [Support](#support)

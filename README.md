@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/CipherxHub/SnipX/main/public/next.svg" alt="SnipX Logo" width="100" />
-  <h1>SnipX</h1>
+  <h1 style="color: blue;">SnipX</h1>
   <p>Create Beautiful Code Snippets in Seconds</p>
   <p>
     <a href="https://snipx.vercel.app" target="_blank">
@@ -25,13 +25,15 @@
 - [Getting Started](#getting-started)
 - [Build & Deployment](#build--deployment)
 - [Features in Detail](#features-in-detail)
+- [Learn More](#learn-more)
 - [License](#license)
 - [Contributors](#contributors)
 - [Support](#support)
+- [Quick Links](#quick-links)
 
 ---
 
-## 🚀 Features
+## <a id="features"></a>🚀 Features
 
 - **Beautiful Code Snippets**: Instantly create visually appealing code snippets with syntax highlighting.
 - **Custom Fonts & Themes**: Enjoy modern fonts like Inter and Fira Code with seamless dark/light mode switching.
@@ -41,7 +43,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## <a id="tech-stack"></a>🛠️ Tech Stack
 
 - **Framework**: [Next.js (App Router)](https://nextjs.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
@@ -51,7 +53,7 @@
 
 ---
 
-## 📂 Project Structure
+## <a id="project-structure"></a>📂 Project Structure
 
 ```plaintext
 /app
@@ -68,7 +70,7 @@
 
 ---
 
-## 🚀 Getting Started
+## <a id="getting-started"></a>🚀 Getting Started
 
 ### Prerequisites
 
@@ -103,13 +105,14 @@ pnpm dev
 # or
 bun run dev
 ```
+
 Open [http://localhost:3000](http://localhost:3000) to view the demo live. The page will auto-update as you modify your code.
 
 *This project utilizes [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) for optimized loading of Google Fonts.*
 
 ---
 
-## 🛠️ Build & Deployment
+## <a id="build--deployment"></a>🛠️ Build & Deployment
 
 ### Production Build
 
@@ -132,6 +135,7 @@ yarn start
 ### Deploying on Vercel
 
 Deploy with Vercel in just a few clicks:
+
 1. Push your code to GitHub, GitLab, or Bitbucket.
 2. Import your repository on [Vercel](https://vercel.com/new?utm_source=create-next-app-readme).
 3. Vercel auto-detects your Next.js project settings.
@@ -141,7 +145,7 @@ For detailed deployment instructions, see the [Next.js Deployment Docs](https://
 
 ---
 
-## 🌟 Features in Detail
+## <a id="features-in-detail"></a>🌟 Features in Detail
 
 ### Code Editor
 - **Interactive Editing**: Built with React, it provides syntax highlighting and an intuitive UI for crafting your snippets.
@@ -157,7 +161,7 @@ For detailed deployment instructions, see the [Next.js Deployment Docs](https://
 
 ---
 
-## 📖 Learn More
+## <a id="learn-more"></a>📖 Learn More
 
 Enhance your Next.js knowledge:
 - **[Next.js Documentation](https://nextjs.org/docs)**
@@ -166,28 +170,29 @@ Enhance your Next.js knowledge:
 
 ---
 
-## 📜 License
+## <a id="license"></a>📜 License
 
-This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/CipherxHub/SnipX/blob/main/LICENSE) file for details.
+This project is licensed under the **MIT License**. For the full license details, please see the [LICENSE](https://github.com/CipherxHub/SnipX/blob/main/LICENSE) file.
 
 ---
 
-## 👨‍💻 Contributors
+## <a id="contributors"></a>👨‍💻 Contributors
 
 - **CipherxHub** – [GitHub Profile](https://github.com/CipherxHub)
 - **CodexCasper** – [GitHub Profile](https://github.com/codexcasper)
 
 ---
 
-## 📞 Support
+## <a id="support"></a>📞 Support
 
 Encounter any issues or have questions? Feel free to [open an issue](https://github.com/CipherxHub/SnipX/issues) on GitHub.
 
 ---
 
-## 🌐 Quick Links
+## <a id="quick-links"></a>🌐 Quick Links
 
 - **Live Demo**: [snipx.vercel.app](https://snipx.vercel.app)
 - **GitHub Repository**: [github.com/CipherxHub/SnipX](https://github.com/CipherxHub/SnipX)
 ```
 
+This version should address your concerns. Feel free to adjust further as needed!

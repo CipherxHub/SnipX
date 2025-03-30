@@ -201,5 +201,5 @@ Encounter any issues or have questions? Feel free to [open an issue](https://git
 
 ## Quick Links
 
-- **Live Demo**: [snipx.vercel.app](snipx-code.vercel.app)
+- **Live Demo**: [snipx.vercel.app](https://snipx-code.vercel.app)
 - **GitHub Repository**: [github.com/CipherxHub/SnipX](https://github.com/CipherxHub/SnipX)

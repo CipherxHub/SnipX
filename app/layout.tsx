@@ -1,6 +1,7 @@
 import './globals.css';
 import type { Metadata } from 'next';
 import { Inter, Fira_Code } from 'next/font/google';
+import { Analytics } from '@vercel/analytics/react'; // Import Analytics
 
 const inter = Inter({ subsets: ['latin'] });
 const firaCode = Fira_Code({
@@ -28,6 +29,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${inter.className} ${firaCode.variable}`}>
         {children}
+        <Analytics /> {/* Add Analytics component */}
       </body>
     </html>
   );

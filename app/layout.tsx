@@ -2,6 +2,7 @@ import './globals.css';
 import type { Metadata } from 'next';
 import { Inter, Fira_Code } from 'next/font/google';
 import { Analytics } from '@vercel/analytics/react'; // Import Analytics
+import { SpeedInsights } from '@vercel/speed-insights/next'; // Import SpeedInsights
 
 const inter = Inter({ subsets: ['latin'] });
 const firaCode = Fira_Code({
@@ -27,9 +28,13 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <title>SnipX - Create beautiful code snippets in seconds</title>
+      </head>
       <body className={`${inter.className} ${firaCode.variable}`}>
         {children}
         <Analytics /> {/* Add Analytics component */}
+        <SpeedInsights /> {/* Add SpeedInsights component */}
       </body>
     </html>
   );

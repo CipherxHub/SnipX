@@ -3,7 +3,7 @@
     <h1>SnipX</h1>
     <p>Create Beautiful Code Snippets in Seconds</p>
     <p>
-        <a href="https://snipx.vercel.app" target="_blank">
+        <a href="https://snipx-code.vercel.app" target="_blank">
             <img src="https://img.shields.io/badge/Live-Demo-brightgreen.svg" alt="Live Demo" />
         </a>
         <a href="https://github.com/CipherxHub/SnipX" target="_blank">
